@@ -1,1 +1,0 @@
-# Pnuemonia-detection-app
